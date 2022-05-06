@@ -91,7 +91,8 @@ header {
 .main-para {
     height: auto;
     text-align: justfiy;
-    padding-bottom: 0px;    
+    padding-bottom: 0px;
+    padding-left: 10px;    
 }
 
 .main-body {
@@ -110,4 +111,3 @@ header {
 h2.proj-title {
     font-size: 40px;
 }
-
