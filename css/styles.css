@@ -1,0 +1,113 @@
+* {
+    color: white;
+    font-family: "Lato";
+    background-color: black;
+}
+
+.bg-grey {
+    background: var(--bs-body-color);
+}
+
+.bg-blue {
+    background-color: var(--bs-blue);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Catamaran" !important;
+    font-weight: 800 !important;
+}
+
+.border {
+    border-radius: 1px;
+    border-color: red;
+    border-style: solid;
+}
+
+.navbar {
+    background: var(--bs-body-color);
+}
+
+.logo {
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.navbar-spacer {
+    height: 0px;
+    width: 36px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a.resume {
+    width: auto;
+    height: 23px;
+}
+
+a.github {
+    width: auto;
+    height: 23px;
+    transform: translate(20px);
+}
+
+a.linkedin {
+    width: auto;
+    height: 23px;
+    transform: translate(40px);
+}
+
+.hover {
+    width: auto;
+}
+
+.hover:hover {
+    color: #ee0979;
+    text-decoration-color: #ee0979;
+}
+
+.collapse.navbar-collapse {
+    transform: translate(0rem, 0.0312rem);
+}
+
+.title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+header {
+    background: linear-gradient(var(--bs-blue) 89%, var(--bs-body-color) 100%), var(--bs-blue);
+    padding: 0px 0px 300px 0px;
+    height: 250px;
+}
+
+.main-para-con {
+    height: auto;
+    max-width: 500px;
+    padding: 36px 60px 0px 60px;
+}
+
+.main-para {
+    height: auto;
+    text-align: justfiy;
+    padding-bottom: 0px;    
+}
+
+.main-body {
+    background-color: var(--bs-gray-900);  
+}
+
+.proj-title {
+    padding: 0px;
+    margin-left: 0px;
+    max-width: 1px;
+    max-height: 1px;
+    margin-bottom: 55px;
+    translate: -2px;
+}
+
+h2.proj-title {
+    font-size: 40px;
+}
+
