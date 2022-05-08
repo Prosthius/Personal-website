@@ -111,3 +111,27 @@ header {
 h2.proj-title {
     font-size: 40px;
 }
+
+.col.proj {
+    /*padding: 30px 100px 30px 100px;*/
+    /*margin: 30px 0px 30px 0px;*/
+}
+
+.body-row {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.proj-con {
+
+}
+
+.p-5.left {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.p-5.right {
+    margin-right: 50px;
+    margin-left: 50px;
+}
