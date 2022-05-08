@@ -85,7 +85,7 @@ header {
 .main-para-con {
     height: auto;
     max-width: 500px;
-    padding: 36px 60px 0px 60px;
+    padding: 36px 4rem 0px 4rem;
 }
 
 .main-para {
@@ -122,16 +122,6 @@ h2.proj-title {
     padding-right: 200px;
 }
 
-.proj-con {
-
-}
-
-.p-5.left {
-    margin-right: 50px;
-    margin-left: 50px;
-}
-
-.p-5.right {
-    margin-right: 50px;
-    margin-left: 50px;
+.proj-col {
+    padding: 2rem 4rem 2rem 4rem;
 }
