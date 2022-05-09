@@ -74,38 +74,45 @@ a.linkedin {
 .title {
     text-align: center;
     text-decoration: underline;
+    font-size: 40px;
 }
 
 header {
     background: linear-gradient(var(--bs-blue) 89%, var(--bs-body-color) 100%), var(--bs-blue);
-    padding: 0px 0px 300px 0px;
-    height: 250px;
+    padding: 0px 0px 310px 0px;
+    height: auto;
+    max-height: 300px;
 }
 
 .main-para-con {
     height: auto;
     max-width: 500px;
     padding: 36px 4rem 0px 4rem;
+    text-align: center;
 }
 
 .main-para {
     height: auto;
-    text-align: justfiy;
+    /*text-align: justify;*/
     padding-bottom: 0px;
     /*padding-left: 10px;*/
 }
 
 .main-body {
     background-color: var(--bs-gray-900);  
+    padding-left: 0px;
+    padding-right: 0px;
+    /*margin-left: 0px;*/
 }
 
 .proj-title {
     padding: 0px;
-    margin-left: 0px;
-    max-width: 1px;
+    margin: auto;
+    max-width: 160px;
     max-height: 1px;
     margin-bottom: 55px;
     translate: -2px;
+    /*text-align: center;*/
 }
 
 h2.proj-title {
@@ -123,5 +130,29 @@ h2.proj-title {
 }
 
 .proj-col {
-    padding: 2rem 4rem 2rem 4rem;
+    padding: 2rem 2rem 2rem 2rem;
+    text-align: center;
 }
+
+.proj-body{
+    /*text-align: justify;*/
+    /*text-align: center;*/
+}
+
+section {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.center {
+    max-width: 1200px;
+    margin: auto;
+}
+
+/*.left {
+    padding-right: 2rem;
+}
+
+.right {
+    padding-left: 2rem;
+}*/
