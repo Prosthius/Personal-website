@@ -93,16 +93,13 @@ header {
 
 .main-para {
     height: auto;
-    /*text-align: justify;*/
     padding-bottom: 0px;
-    /*padding-left: 10px;*/
 }
 
 .main-body {
     background-color: var(--bs-gray-900);  
     padding-left: 0px;
     padding-right: 0px;
-    /*margin-left: 0px;*/
 }
 
 .proj-title {
@@ -112,16 +109,10 @@ header {
     max-height: 1px;
     margin-bottom: 55px;
     translate: -2px;
-    /*text-align: center;*/
 }
 
 h2.proj-title {
     font-size: 40px;
-}
-
-.col.proj {
-    /*padding: 30px 100px 30px 100px;*/
-    /*margin: 30px 0px 30px 0px;*/
 }
 
 .body-row {
@@ -134,11 +125,6 @@ h2.proj-title {
     text-align: center;
 }
 
-.proj-body{
-    /*text-align: justify;*/
-    /*text-align: center;*/
-}
-
 section {
     padding-left: 2rem;
     padding-right: 2rem;
@@ -148,11 +134,3 @@ section {
     max-width: 1200px;
     margin: auto;
 }
-
-/*.left {
-    padding-right: 2rem;
-}
-
-.right {
-    padding-left: 2rem;
-}*/
