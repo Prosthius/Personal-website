@@ -80,7 +80,6 @@ a.linkedin {
 
 .gradient {
     background: linear-gradient(var(--bs-blue) 10%, var(--bs-body-color) 100%), var(--bs-blue);
-    /*padding: 0px 0px 0px 0px;*/
     height: 40px;
     max-height: 40px;
 }
@@ -117,11 +116,6 @@ h2.proj-title {
     font-size: 35px;
 }
 
-.body-row {
-    padding-left: 200px;
-    padding-right: 200px;
-}
-
 .proj-col {
     padding: 2rem 0rem 0rem 0rem;
     text-align: center;
@@ -131,6 +125,7 @@ h2.proj-title {
 section {
     padding-left: 2rem;
     padding-right: 2rem;
+    padding-bottom: 1rem;
 }
 
 .center {
