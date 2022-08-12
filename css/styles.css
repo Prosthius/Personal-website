@@ -42,21 +42,24 @@ a {
     color: white;
 }
 
-a.resume {
+.resume {
     width: auto;
-    height: 23px;
+    height: auto;
+    transform: translate(0px,12px);
 }
 
-a.github {
+.github {
     width: auto;
-    height: 23px;
-    transform: translate(20px);
+    height: auto;
+    margin-left: 1rem;
+    transform: translate(0px,12px);
 }
 
-a.linkedin {
+.linkedin {
     width: auto;
-    height: 23px;
-    transform: translate(40px);
+    height: auto;
+    margin-left: 1rem;
+    transform: translate(0px,12px);
 }
 
 .hover {
