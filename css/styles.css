@@ -111,12 +111,15 @@ a {
     max-width: auto;
     max-height: auto;
     margin-bottom: 0px;
-    /*translate: -2px;*/
-    text-decoration: underline;
 }
 
 h2.proj-title {
     font-size: 35px;
+}
+
+a.proj-title {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
 }
 
 .proj-col {
@@ -142,4 +145,10 @@ section {
 
 .about-col {
     background: linear-gradient(var(--bs-blue) 89%, var(--bs-body-color) 100%), var(--bs-blue);
+}
+
+.resume-page {
+    height: 1267px;
+    display: flex;
+    max-height: 1267px;
 }
