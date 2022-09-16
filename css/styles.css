@@ -103,6 +103,7 @@ a {
     background-color: var(--bs-gray-900);  
     padding-left: 0px;
     padding-right: 0px;
+    padding-bottom: 1.5rem;
 }
 
 .proj-title {
